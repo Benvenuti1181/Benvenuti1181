@@ -1,0 +1,103 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(image/background.jpg);
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+  }
+
+.container{
+  width: 63%;
+  height:600px;
+  border:1px solid;
+  border-radius:8px;
+  margin:30px auto;
+  background-color: rgba(98, 53, 43, 0.5);
+}
+
+header{
+  margin-top: 70px;
+  text-align: center;
+}
+
+.logo{
+  max-width: 20%;
+  height: auto;
+}
+
+h1{
+  font-size: 22px;
+  font-weight: 200;
+  word-spacing: 4px; 
+  color:lime;
+}
+
+nav {
+  border:1px solid;
+  background-color:lime;
+  margin-top: 2px;
+  width: 82%;
+  margin:0 auto;
+}
+li{
+  border:1px solid;
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+display: inline-block;
+list-style-type: none;
+padding: 0px 2px;
+margin:4px 0px;
+background-color:white;
+font-size: 12px;
+}
+
+#navlist{
+ text-align: center;
+}
+
+}
+main{
+  border:1px solid
+}
+
+.gino{
+  width: 82%;
+  margin:0 auto;
+  font-size:14px;
+  margin-top: 20px;
+  color:white;
+}
+
+span{
+  font-size: 20px;
+}
+.via{
+  font-size: 15px;
+}
+
+.gino22{
+  background-color: rgba(230, 207, 105, 0.692);
+  border-radius: 5px;
+  width: 250px;
+}
+.mike24{
+  background-color:lime;
+  border-radius: 5px;
+  width: 420px;
+}
+
+.fede154{
+  background-color:brown;
+  border-radius: 5px;
+  width: 130px;
+}
